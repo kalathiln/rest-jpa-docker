@@ -1,0 +1,5 @@
+com/blackmolecaptures/entity/User.class
+com/blackmolecaptures/App.class
+com/blackmolecaptures/repository/UserRepository.class
+com/blackmolecaptures/Application.class
+com/blackmolecaptures/controller/UserController.class
